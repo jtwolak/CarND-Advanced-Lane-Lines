@@ -97,7 +97,7 @@ I implemented this step in  the image_processing_pipeline() function at lines 67
 
 ### Pipeline (video)
 
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](./project_video_out.mp4)
 
 ---
 
