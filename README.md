@@ -1,4 +1,6 @@
----
+## Overview
+
+------
 
 **Advanced Lane Finding Project**
 
@@ -22,8 +24,6 @@ The goals / steps of this project are the following:
 [image5]: ./examples/color_fit_lines.jpg "Fit Visual"
 [image6]: ./examples/example_output.jpg "Output"
 [video1]: ./project_video.mp4 "Video"
-
----
 
 ### 
 
