@@ -419,7 +419,7 @@ def find_window_centroids(image, window_width=50, window_height=80, margin=100, 
     r_diff = 0
     l_detected = 1
     r_detected = 1
-    count =0
+    count = 0
 
     # Add what we found for the first layer
     window_centroids.append((l_center, r_center))
