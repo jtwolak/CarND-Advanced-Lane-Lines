@@ -31,9 +31,9 @@ for fname in testImageFileNames:
     img = cv2.cvtColor(cv2.imread(fname), cv2.COLOR_BGR2RGB)
     testImageSet.append(img)
 
-#===================================================================
+#==================================================================
 # Step 1: Camera Calibration
-#===================================================================
+#==================================================================
 # Read in calibration corner points
 objp = np.zeros((6*9,3), np.float32)
 objp[:,:2] = np.mgrid[0:9, 0:6].T.reshape(-1,2)
